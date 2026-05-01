@@ -24,11 +24,11 @@
   border-radius: 8px;
 }
 
-.botones button:hover {
+.botonesbarra button:hover {
   background-color: #e8f5fe;
 }
 
-.botones button img {
+.botonesbarra button img {
   width: 18px;
   height: 18px;
   object-fit: contain;

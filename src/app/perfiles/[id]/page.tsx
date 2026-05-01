@@ -21,6 +21,7 @@ const Perfiles =() => {
     useEffect(()=>{
         getPerfil(id).then(setUser)
     },[])
+    
     return(
 
     <div className="perfil-container">
